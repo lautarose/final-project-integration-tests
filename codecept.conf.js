@@ -14,7 +14,7 @@ exports.config = {
     Playwright: {
       browser: 'chromium',
       url: 'https://project-frontend-ycwl2yaekq-rj.a.run.app/',
-      show: true
+      headless: true,
     }
   },
   include: {
