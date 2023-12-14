@@ -1,0 +1,21 @@
+# Carpeta node_modules generada por npm/yarn
+node_modules/
+
+# Archivos de registro
+*.log
+
+# Archivos de resultados de pruebas
+output/
+
+# Archivos de configuración locales (si los usas)
+codecept.conf.js.local
+
+# Archivos de ambiente local
+.env
+
+# Dependiendo de tu editor o IDE, puedes querer ignorar sus archivos/directorios
+.vscode/
+.idea/
+
+# Si utilizas git para control de versiones y tienes alguna configuración local
+.gitconfig.local
